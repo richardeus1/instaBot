@@ -1,6 +1,6 @@
 # instaBot
 A simple bot to obtain more followers and likes on Instagram. It uses the Full Xpath to detect the elements. Pending to fix unfollow function.
-Code has a lot of patches due to instagram is constantly being modified to avoid these bots. For this reason, the code is not in its best shape. 
+Code has a lot of patches due to instagram being modified constantly to avoid these bots. For this reason, the code is not in its best shape. 
 
 Quick environment setup: 
 
